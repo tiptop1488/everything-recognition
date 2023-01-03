@@ -27,6 +27,6 @@ CASCADES = {
     "Cat face": {
         "path": "haarcascades/faces/haarcascade_frontalcatface_extended.xml",
         "color": (0, 255, 0),
-        "draw": False
+        "draw": True
     }
 }
